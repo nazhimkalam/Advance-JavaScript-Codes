@@ -1,0 +1,25 @@
+.flex {
+  display: flex;
+  flex-direction: row;
+}
+.flex div {
+  align-self: center;
+  padding: 20px;
+}
+header {
+  color: rgb(87, 4, 241);
+}
+button {
+  background-color: rgb(255, 30, 0);
+  padding: 5px;
+  border-radius: 5px;
+  color: whitesmoke;
+  border: 1px rgb(167, 24, 24) solid;
+}
+
+
+#animal-info{
+    text-decoration: underline;
+    text-decoration-color: rgb(196, 196, 196);
+    padding-left: 30px;
+}
